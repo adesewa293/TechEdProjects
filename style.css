@@ -11,13 +11,9 @@ body {
 }
 
 header {
-  background-color: aquamarine;
-  color: black;
+  background-color: #333;
+  color: #fff;
   padding: 20px;
-}
-.headerLinks {
-  text-align: right;
-  color: black;
 }
 
 header h1 {
@@ -42,6 +38,9 @@ nav ul li a {
 
 main {
   margin: 20px;
+}
+.formInput {
+  margin-top: 200px;
 }
 
 section {

@@ -35,12 +35,19 @@ nav ul li a {
   text-decoration: none;
 }
 
+.header-image {
+  width: 100%;
+  height: 400px;
+  background-image: url('header-image.jpg');
+  background-size: cover;
+  background-position: center;
+}
 
 main {
   margin: 20px;
 }
 .formInput {
-  margin-top: 200px;
+  margin-top: 10px;
 }
 
 section {

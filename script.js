@@ -1,4 +1,4 @@
-const userName = prompt('Hi user, pleaase tell m your name!')
+const userName = prompt('Hi user, pleaase tell me your name!')
 const isConfirmed = confirm('Confirm your name is ' + userName)
 if (isConfirmed){
   alert('welcome to my page ' + userName)

@@ -7,3 +7,4 @@ if (isConfirmed){
 } else {
   alert ('Reload to enter your name again')
 }
+myFunction(){}

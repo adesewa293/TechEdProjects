@@ -50,6 +50,10 @@ main {
   margin-top: 10px;
   max-width: 40%;
 }
+#contactTitle {
+  /*font-weight: bolder;
+  font-size: larger; */
+}
 
 section {
   margin-bottom: 20px;

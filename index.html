@@ -19,7 +19,7 @@
     </nav>
   </header>
 
-  <main>
+  <main id="mainContent">
     <section>
       <h2>About Me</h2>
       <p>I am a web developer passionate about creating user-friendly and accessible websites.</p>
@@ -27,9 +27,9 @@
     <div class="header-image"></div>
 
     <section class="formInput">
-      <h2 id="contactTitle">Feel free to message me</h2>
+      <h2 id="contactTitle">Feel free to change to color here</h2>
       <h2>Enter a color</h2>
-      <form onSubmit="">
+      <form onSubmit="myFunction(event)">
         <div>
           <label for="name">Colour Name:</label>
           <input type="text" id="name" name="name" required>

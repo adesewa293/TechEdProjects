@@ -48,6 +48,7 @@ main {
 }
 .formInput {
   margin-top: 10px;
+  max-width: 40%;
 }
 
 section {
